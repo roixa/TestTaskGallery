@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestTaskGallery</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="title_animation">автоматическая смена картинок</string>
+    <string name="title_animation_time">интервал смены картинок в сек</string>
+    <string name="title_favorites">показывать только favourites</string>
+    <string name="title_random">показывать  случайно</string>
+    <string name="title_animation_type2">поменять анимацию</string>
+
+
+</resources>
